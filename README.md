@@ -1,0 +1,1 @@
+# custom-annotation-checker-min-length-string
